@@ -1,2 +1,6 @@
 line one
+<<<<<<< HEAD
 line master add
+========
+line branch dev
+>>>>>>> dev
